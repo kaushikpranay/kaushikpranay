@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @kaushikpranay
-- 👀 I’m interested in trying new skills
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate in computer science field
-- 📫 Reach to me by social account - kaushik.pranay._
-
 # 💫 About Me:
 🔭 I’m currently working on improving my skills and knowledge in various areas of computer science, such as software development, algorithms, data structures, and machine learning. I'm also working on several projects to gain practical experience .<br>👯 I’m looking to collaborate by Joining online coding communities such as GitHub, Stack Overflow, or Reddit can provide opportunities to collaborate with other developers on coding projects or seek help on specific coding problems.<br>🤝 I’m looking for help to improve my programming skills and knowledge.<br>🌱 I’m currently learning Front end, Python, Python libraries, networking, and Linux.
 
