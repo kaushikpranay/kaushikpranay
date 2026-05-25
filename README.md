@@ -90,15 +90,15 @@ A production-grade customer support system that gets smarter over time through h
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaushikpranay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kaushikprany&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpranay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikprany&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="175"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kaushikpranay&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=kaushikprany&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
 
 </div>
 
