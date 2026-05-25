@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,35:0f172a,70:1e293b,100:0ea5e9&height=240&section=header&text=KAUSHIK%20PRANAY&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20•%20RAG%20Systems%20•%20Backend%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e293b,100:38bdf8&height=260&section=header&text=KAUSHIK%20PRANAY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20•%20RAG%20Systems%20•%20Backend%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+survive+production.;RAG+Pipelines+%E2%80%A2+LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+AWS;Human-in-the-loop+AI+Infrastructure.;Reducing+hallucinations+with+better+retrieval.;Shipping+systems.+Not+toy+demos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+survive+production.;RAG+Pipelines+%E2%80%A2+LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+AWS;Human-in-the-loop+AI+Infrastructure.;Reducing+hallucinations+with+better+retrieval.;Shipping+systems.+Not+toy+demos.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# /whoami
+# whoami.sh
 
 ```bash
 > whoami
@@ -126,24 +126,26 @@ Final Response
 
 ## Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,sql,bash" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,sql,bash" />
 </p>
 
 ## AI / LLM Stack
 
-<p>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-0F172A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/pgvector-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge&logoColor=white" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-0F172A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-0F172A?style=for-the-badge&logoColor=white"/>
+
 </p>
 
 ## Backend & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,aws,postgres,dynamodb,docker,linux,git,github" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,aws,postgres,docker,linux,git,github" />
 </p>
 
 ---
@@ -198,15 +200,17 @@ Python • TensorFlow • CNN • OpenCV • Keras
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaushikprany&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaushikpranay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikprany&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpranay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kaushikprany&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
+<img src="https://streak-stats.demolab.com?user=kaushikpranay&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
 
 </div>
 
@@ -222,11 +226,11 @@ Python • TensorFlow • CNN • OpenCV • Keras
 [ ] Sleeping properly
 ```
 
-Tiny bit of humor. Enough to feel human. Not enough to look unserious. The internet has enough README files that look like a Discord profile designed during a caffeine overdose.
+The last checkbox stays unchecked. Engineers keep pretending sleep is optional and then wonder why they hallucinate harder than the LLMs they fine-tune.
 
 ---
 
-# connect/
+# connect.sh
 
 <div align="center">
 
@@ -234,7 +238,7 @@ Tiny bit of humor. Enough to feel human. Not enough to look unserious. The inter
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kaushikprany">
+<a href="https://github.com/kaushikpranay">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -244,11 +248,11 @@ Tiny bit of humor. Enough to feel human. Not enough to look unserious. The inter
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:1e293b,100:0a0a0a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:38bdf8&height=120&section=footer"/>
 
 ### "Don't patch symptoms. Fix the pipeline."
 
