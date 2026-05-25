@@ -252,8 +252,9 @@ The last checkbox stays unchecked. Engineers keep pretending sleep is optional a
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:38bdf8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:1e293b,100:0a0a0a&height=120&section=footer"/>
 
 ### "Don't patch symptoms. Fix the pipeline."
+
 
 </div>
