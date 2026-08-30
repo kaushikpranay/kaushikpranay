@@ -51,7 +51,8 @@ semantic caching, and multi-model routing on AWS.
 ```json
 {
   "role": "Generative AI Engineer",
-  "company": "TS Service",
+  "company": "Tata Consultancy Services
+",
   "location": "India",
   "focus": [
     "RAG Infrastructure",
