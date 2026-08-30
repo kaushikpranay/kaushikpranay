@@ -113,8 +113,8 @@ Final Response
 ## production_results.log
 
 ```diff
-+ 0% → 85% domain accuracy improvement
-+ 90% reduction in repetitive manual handling
++ 85.7% in-scope accuracy across a 52-query eval benchmark
++ 90% correct escalation on out-of-scope queries
 + Improved answer consistency with adaptive retries
 + Reduced latency using semantic caching
 + High availability with failover routing
@@ -155,17 +155,15 @@ Final Response
 ## Indian Sign Language Recognition
 
 ```txt
-Dataset Size:
-15,000+ samples
-
 Classes:
 26
 
 Accuracy:
 92%
 
-Optimizations:
-30% faster inference after preprocessing improvements
+Preprocessing:
+Grayscale conversion, Gaussian blur,
+adaptive + Otsu thresholding
 ```
 
 ### Stack
